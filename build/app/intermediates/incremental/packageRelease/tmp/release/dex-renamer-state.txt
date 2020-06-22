@@ -1,0 +1,4 @@
+#Fri May 29 14:03:55 IST 2020
+base.0=/home/manoj/AndroidStudioProjects/flash-chat-flutter-master/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
